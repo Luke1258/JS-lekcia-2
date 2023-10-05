@@ -1,3 +1,3 @@
-const meno = 'Lukas'
+const number = Math.random()
 
-document.body.innerHTML = '<h1>' + meno + '</h1>'
+document.body.innerHTML = number
